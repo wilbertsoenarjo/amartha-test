@@ -45,7 +45,7 @@ test.beforeEach(async ({ page }) => {
 
 test.describe("Sort product by name", () => {
     test("Should be able to sort product with name (A to Z)", async () => {
-        await product.sortName("Name (A to Z)")
+        await product.sortName("Name (Z to A)")
         await product.verifySort("Name (A to Z)")
     });
 
