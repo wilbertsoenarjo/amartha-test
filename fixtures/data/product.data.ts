@@ -1,0 +1,19 @@
+export const products = {
+    "Sauce Labs Backpack": {
+        name: "Sauce Labs Backpack",
+        description: "carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.",
+        price: "$29.99"
+    },
+
+    "Sauce Labs Bolt T-Shirt": {
+        name: "Sauce Labs Bolt T-Shirt",
+        description: "Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.",
+        price: "$15.99"
+    },
+
+    "Sauce Labs Fleece Jacket": {
+        name: "Sauce Labs Fleece Jacket",
+        description: "It's not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office.",
+        price: "$49.99"
+    },
+}
